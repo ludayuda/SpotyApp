@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpotyApp</string>
+    <string name="error_internet"> No Tiene conexion a internet</string>
+
+</resources>
